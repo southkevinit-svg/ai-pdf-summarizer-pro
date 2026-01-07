@@ -15,4 +15,4 @@ This project is a powerful Python application designed to help users extract and
 - **PDF Engine:** PyPDF2
 
 ## 🚀 How to use
-You can run this project directly in [Google Colab](https://colab.research.google.com/drive/1rYMARcfDqTGys37odryBdJ7Haczhrzll) or locally by installing the requirements.
+You can run this project directly in [Google Colab] (https://colab.research.google.com/drive/1rYMARcfDqTGys37odryBdJ7Haczhrzll) or locally by installing the requirements.
