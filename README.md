@@ -1,18 +1,26 @@
-# ai-pdf-summarizer-pro
-A high-performance Python tool using LLMs to extract and summarize PDF content. Features an easy-to-use interface and efficient data processing.
-# 📄 AI PDF Summarizer Pro
+# AI PDF Summarizer Pro 📄🤖
 
-This project is a powerful Python application designed to help users extract and summarize long PDF documents using state-of-the-art AI models. 
+Ein leistungsstarkes Tool zur automatisierten Analyse und Zusammenfassung von PDF-Dokumenten mittels OpenAI (GPT-4) oder lokalen Modellen (Ollama).
 
-## 🌟 Key Features
-- **Smart Extraction:** Efficiently reads text from multi-page PDFs.
-- **AI Analysis:** Uses LLMs (OpenAI/Hugging Face) for concise summaries.
-- **User Friendly:** Designed for speed and clarity.
+---
 
-## 🛠 Tech Stack
-- **Backend:** Python 3.x
-- **AI Logic:** OpenAI API / Transformers
-- **PDF Engine:** PyPDF2
+## 🚀 Schnellstart
 
-## 🚀 How to use
-You can run this project directly in [Google Colab] (https://colab.research.google.com/drive/1rYMARcfDqTGys37odryBdJ7Haczhrzll) or locally by installing the requirements.
+### Option A: Google Colab (Sofort im Browser)
+Ideal für einen schnellen Test ohne Installation.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/southkevinit-svg/ai-pdf-summarizer-pro/blob/main/PDF_Summarizer_Quickstart.ipynb)
+
+### Option B: Lokale Streamlit App (Full Interface)
+1. Repository klonen: `git clone https://github.com/southkevinit-svg/ai-pdf-summarizer-pro.git`
+2. Installation: `pip install -r requirements.txt`
+3. Starten: `streamlit run app.py`
+
+---
+
+## 🛠️ Features & Tech Stack
+* **Hybrid AI:** Cloud-Support (OpenAI) & Local-Support (Ollama/Llama3).
+* **Privacy:** Lokale Verarbeitung für sensible Daten möglich.
+* **Extraction:** Nutzt PyPDF2 für präzise Textextraktion.
+
+---
+*Developed by Kevin South | South Ink*
